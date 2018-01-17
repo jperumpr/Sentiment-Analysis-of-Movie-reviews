@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 '''
 class SVM_Word2Vec:
 
-
+#New comment
 	def __init__(self):
 		self.classifier = None
 		self.extracter = ExtractFeatures('./data/reviewsData.txt')
